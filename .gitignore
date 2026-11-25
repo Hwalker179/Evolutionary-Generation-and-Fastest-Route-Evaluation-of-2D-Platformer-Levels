@@ -1,0 +1,14 @@
+# Visual studio caches and user settings files
+.vs/ # visual studio files
+*.user # user files
+*.suo # user option files
+
+# Generated build configurations
+[Dd]ebug/
+[Rr]elease/
+
+# Build output at the repository or project root
+/x64/
+/x86/
+/PlatformerGeneration/x64/
+/PlatformerGeneration/x86/
